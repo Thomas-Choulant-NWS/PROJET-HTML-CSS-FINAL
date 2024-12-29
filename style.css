@@ -79,6 +79,23 @@ nav {
   text-decoration: none;
 }
 
+.bouton {
+  background-color: #4caf4f;
+  border: none;
+  color: white;
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  gap: 10px;
+  margin: auto;
+}
+
 .hero {
   display: flex;
   justify-content: space-between;
@@ -131,23 +148,6 @@ nav {
 
 .carroussel-card p {
   text-align: center;
-}
-
-.bouton {
-  background-color: #4caf4f;
-  border: none;
-  color: white;
-  padding-left: 32px;
-  padding-right: 32px;
-  padding-top: 14px;
-  padding-bottom: 14px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  border-radius: 4px;
-  gap: 10px;
-  margin: auto;
 }
 
 .page2 {
